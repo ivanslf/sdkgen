@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cubos.github.io/sdkgen/blog</id>
-    <title>Test Site 3 Blog</title>
+    <title>sdkgen Blog</title>
     <updated>2017-10-24T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://cubos.github.io/sdkgen/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest Test Site 3 news and events.</subtitle>
+    <subtitle>The best place to stay up-to-date with the latest sdkgen news and events.</subtitle>
     <logo>https://cubos.github.io/sdkgen/img/docusaurus.svg</logo>
     <rights>Copyright © 2018 Your Name or Your Company Name</rights>
     <entry>

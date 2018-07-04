@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Test Site 3 Blog</title>
+        <title>sdkgen Blog</title>
         <link>https://cubos.github.io/sdkgen/blog</link>
-        <description>The best place to stay up-to-date with the latest Test Site 3 news and events.</description>
+        <description>The best place to stay up-to-date with the latest sdkgen news and events.</description>
         <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
-            <title>Test Site 3 Blog</title>
+            <title>sdkgen Blog</title>
             <url>https://cubos.github.io/sdkgen/img/docusaurus.svg</url>
             <link>https://cubos.github.io/sdkgen/blog</link>
         </image>
